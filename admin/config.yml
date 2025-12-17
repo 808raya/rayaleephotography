@@ -1,6 +1,5 @@
 backend:
-  name: github
-  repo: 808raya/rayaleephotography
+  name: git-gateway
   branch: main
 
 media_folder: "images/uploads"
